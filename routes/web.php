@@ -3,6 +3,10 @@
 use Illuminate\Support\Facades\Route;
 
 // Login routes
+Route::get('/email', function () {
+    return view('login-email');
+});
+
 Route::get('/', function () {
     return view('login-email');
 });

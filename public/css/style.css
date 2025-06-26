@@ -1,3 +1,21 @@
+.whsOnd .i79UJc .zHQkBf
+{
+    flex-grow: 1;
+    flex-shrink: 1;
+    background-color: transparent;
+    border: none;
+    display: block;
+    font: 400 16px Roboto, RobotoDraft, Helvetica, Arial, sans-serif;
+    height: 24px;
+    line-height: 24px;
+    margin: 0;
+    min-width: 0%;
+    outline: none;
+    padding: 0;
+    z-index: 0;
+    border: 1px solid;
+}
+
 @keyframes quantumWizBoxInkSpread {
     0% {
         transform: translate(-50%,-50%) scale(0.2)
@@ -8191,7 +8209,8 @@ a.VfPpkd-rymPhb-ibnC6b {
 .JQ5tlb {
     border-radius: 50%;
     color: var(--gm3-sys-color-on-surface-variant,#444746);
-    overflow: hidden
+    overflow: hidden;
+    background: #8d6e63;
 }
 
 .pGzURd {
@@ -8921,7 +8940,8 @@ a.VfPpkd-rymPhb-ibnC6b {
     margin: 2px;
     padding: 12px 14px;
     text-align: left;
-    z-index: 1
+    z-index: 1;
+    border: solid 1px;
 }
 
 .i79UJc.OcVpRe .zHQkBf {
